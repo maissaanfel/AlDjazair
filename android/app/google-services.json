@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "716738928288",
+    "project_id": "al-djazair",
+    "storage_bucket": "al-djazair.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716738928288:android:dff2a9cad23409e8c8f3c5",
+        "android_client_info": {
+          "package_name": "com.ryadandmaissa.aldjazair"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716738928288-jkofolhr1tpnv3413m30p15digctnct7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxN5YTiAf53DBj2YLAAPiGJDS-bYTV3mg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716738928288-jkofolhr1tpnv3413m30p15digctnct7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
