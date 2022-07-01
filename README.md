@@ -1,6 +1,6 @@
 # aldjazair
 
-A new Flutter project.
+A Flutter project in order to create a mobile app which will aim to visit the city of Algiers and know its heritage.
 
 ## Getting Started
 
